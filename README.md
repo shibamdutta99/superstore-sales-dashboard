@@ -18,39 +18,46 @@ This dashboard provides a comprehensive view of:
 
 ## 📅 Dataset
 
-- **Source**: Tableau's Sample Superstore dataset
-- **Date Range**: Jan 2018 – Dec 2021
+- **Source**: Tableau Sample Superstore dataset
+- **Date Range**: January 2018 – December 2021
 
 ---
 
 ## 📌 Key Insights
 
 - **California** leads with the highest sales ($458K)
-- The **West** and **East** regions contribute over 60% of total sales
-- **Phones** and **Chairs** are the top sub-categories
-- Noticeable **sales spikes** around Q4 every year
+- The **West** and **East** regions together contribute over 60% of total sales
+- **Phones**, **Chairs**, and **Binders** are among the top-performing sub-categories
+- Seasonal trends show sales spikes, especially in Q4 every year
 
 ---
 
 ## 🛠 Tools Used
 
 - [Tableau](https://www.tableau.com/)
-- Excel (for data formatting)
+- Excel (for initial data formatting)
 
 ---
 
-## 📂 Files
+## 📂 Files Included
 
-| File | Description |
-|------|-------------|
-| `Sales Dashboard.png` | Final dashboard image |
-| `superstore-dashboard.twbx` _(optional)_ | Tableau workbook |
-| `Superstore.csv` _(optional)_ | Dataset used for the dashboard |
+| File Name             | Description                              |
+|----------------------|------------------------------------------|
+| `Sales Dashboard.png`| Final dashboard image                     |
+| `superstore.twbx` _(optional)_ | Tableau packaged workbook (if you wish to include it) |
+| `Superstore.csv` _(optional)_ | Dataset used for analysis           |
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm **Shibam Dutta**, a photographer-turned-data enthusiast exploring analytics with tools like Tableau, Python, and SQL. Connect with me on [LinkedIn](https://www.linkedin.com/in/shibam-dutta-6a644a43/)
+I'm **Shibam Dutta**, a photographer-turned-data enthusiast with a passion for uncovering insights through data. I create dashboards and data stories using Tableau, Python, and SQL.
+
+📷 I also provide professional wedding photography and cinematography services.  
+📈 Exploring data one dashboard at a time.
+
+- [LinkedIn](https://www.linkedin.com/in/shibam-dutta-6a644a43/)
 
 ---
+
+⭐ *Feel free to fork this repo, use the dashboard, and give it a star if you find it helpful!*
